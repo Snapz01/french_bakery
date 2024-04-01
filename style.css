@@ -1,0 +1,20 @@
+span h1 {
+    color: rgb(223, 50, 50);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+}
+/*
+img{
+    height: 300px;
+    width: 300px;
+}
+*/
+
+body, #img_bg {
+background-image: url(material/background.jpg) no-repeat;
+margin: 10px 0 0 0;
+background-size: 100% 100%;
+background-position: center;
+background-repeat: no-repeat;
+}
